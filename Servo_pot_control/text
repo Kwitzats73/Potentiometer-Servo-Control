@@ -1,1 +1,4 @@
-dfdghgRWHRHRHRHRHRH
+Center post of potentiometer to A0
+left post of potentiometer to GND
+Right post of potentiometer to 5V
+singal wire of servo to  digital 3 pin
